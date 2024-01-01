@@ -13,12 +13,12 @@ Restart your browser and clear the cache `CTRL+F5`
 
 ## Example
 
-![Main View](examples/Screenshot 2024-01-01 152817.png)
+![Main View](examples/Main_View.png)
 
-![Preferences](examples/Screenshot 2024-01-01 152828.png)
+![Preferences](examples/Preferences.png)
 
-![Dialog window](examples/Screenshot 2024-01-01 152916.png)
+![Dialog window](examples/Dialog_Window.png)
 
-![Calendar](examples/Screenshot 2024-01-01 152954.png)
+![Calendar](examples/Calendar.png)
 
-![Date picker](examples/Screenshot 2024-01-01 153012.png)
+![Date picker](examples/Date_picker.png)

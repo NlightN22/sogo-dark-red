@@ -203,3 +203,9 @@ md-sidenav .md-toolbar-tools.sg-toolbar-tools--dense.layout-align-center-center 
     background-color: rgb(81 81 81) !important;
 }
 /* End Options Menu filter (left bot corner) */
+
+/* Logo screen */
+md-content .md-default-theme.md-accent.md-bg {
+    background-color: rgb(63 59 59) !important;
+}
+/* End Logo screen */

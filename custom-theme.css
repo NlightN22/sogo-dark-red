@@ -208,4 +208,8 @@ md-sidenav .md-toolbar-tools.sg-toolbar-tools--dense.layout-align-center-center 
 md-content .md-default-theme.md-accent.md-bg {
     background-color: rgb(63 59 59) !important;
 }
+
+main.view.md-default-theme.md-background.md-hue-1.md-bg {
+    background-color: rgb(55 55 55)
+}
 /* End Logo screen */
